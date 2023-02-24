@@ -1,8 +1,4 @@
-# Papers-for-KGs-in-Education <br>
-product from:
-- WangHan   (HongKong University  --Hongkong)
-- Tao Xinyi   (Central China Normal University  --Wuhan) <br>
-updataing
+# Papers-for-KGs-in-Education
 
 ## 2023
 
@@ -130,6 +126,14 @@ updataing
 [ICDEL] ()  　ACM  <br> 
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3474995.3475015) <br>
 
+- **Home  Advances in Natural Computation, Fuzzy Systems and Knowledge Discovery  Conference paper Course Knowledge Graph for Computer Sciences**  <br>
+[LNDECT] ()  　Springer  <br> 
+[PDF](https://link.springer.com/content/pdf/10.1007/978-3-030-70665-4_84.pdf?pdf=core) <br>
+
+- **Home  Advances in Natural Computation, Fuzzy Systems and Knowledge Discovery  Conference paper Course Knowledge Graph for Computer Sciences**  <br>
+[ICIDCA] ()  　Elsevier  <br> 
+[PDF]() <br>
+
 ## 2020
 
 - **Knowledge Graph Based Teaching Analysis on Circuit Course**  <br>
@@ -230,15 +234,11 @@ updataing
 [JCDL] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6970213) <br>
 
+## Geography knowledge graph
+- **CKGG: A Chinese Knowledge Graph for High-School Geography Education and Beyond**  <br>
+[LNISA] ()  　Springer  <br> 
+[PDF](https://link.springer.com/content/pdf/10.1007/978-3-030-88361-4_25.pdf?pdf=core) <br>
 
-- ****  <br>
-[] ()  　IEEE  <br> 
-[PDF]() <br>
-
-
-- ****  <br>
-[] ()  　IEEE  <br> 
-[PDF]() <br>
 
 
 
