@@ -1,4 +1,9 @@
 # Papers：KGs-for-Education
+Provide by：  <br>
+- Wang Han  --University of Hong Kong -（HongKong）  <br>
+- Tao Xinyi  --Central China Normal University - (Wu Han)  <br>  <br>
+
+Here, We collect and collate the application of knowledge graph in education to provide necessary reference for related research.
 
 ## 2023
 
