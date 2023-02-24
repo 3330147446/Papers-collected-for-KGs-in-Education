@@ -1,4 +1,4 @@
-# Papers-for-KGs-in-Education
+# Papers：KGs-for-Education
 
 ## 2023
 
