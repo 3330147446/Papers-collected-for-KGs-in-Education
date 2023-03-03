@@ -19,6 +19,9 @@ Here, We collect and collate the application of **Knowledge Graph** for **Educat
 [软件导刊] ()  　CNKI  <br> 
 [PDF](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=0&CurRec=1&DbCode=CAPJ&dbname=CAPJLAST&filename=RJDK2023011801C&urlid=42.1671.tp.20230118.1336.051&yx=Y) <br>
 
+- **汉语国际教育研究热点主题分析与发展趋势——基于CSSCI计量统计和知识图谱分析**  <br>
+[社会科学家] ()  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=0&CurRec=2&DbCode=CJFD&dbname=CJFDAUTO&filename=SHKJ202210020&urlid=45.1008.C.20230101.1553.031&yx=A) <br>
 
 ## 2022
 
@@ -90,6 +93,25 @@ Here, We collect and collate the application of **Knowledge Graph** for **Educat
 [电化教育研究] ()  　CNKI  <br> 
 [PDF](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=0&CurRec=4&DbCode=CJFD&dbname=CJFDAUTO&filename=DHJY202211010&urlid=&yx=) <br>
 
+- **基于学科知识图谱的教育知识服务模型构建研究**  <br>
+[数字教育] ()  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=0&CurRec=3&DbCode=CJFD&dbname=CJFDLAST2023&filename=SEJY202206004&urlid=&yx=) <br>
+
+- **知识图谱新近研究进展及其在教育领域的应用挑战**  <br>
+[数字教育] ()  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=0&CurRec=5&DbCode=CJFD&dbname=CJFDLAST2022&filename=SEJY202205002&urlid=&yx=) <br>
+
+- **学科核心素养发展导向下教育领域知识图谱模式构建方法研究**  <br>
+[电化教育研究] ()  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=0&CurRec=8&DbCode=CJFD&dbname=CJFDLAST2022&filename=DHJY202205011&urlid=&yx=) <br>
+
+- **融合多模态资源的教育知识图谱的内涵、技术与应用研究**  <br>
+[计算机应用研究] ()  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=0&CurRec=9&DbCode=CJFD&dbname=CJFDLAST2022&filename=JSYJ202208003&urlid=51.1196.TP.20220315.1813.012&yx=A) <br>
+
+- **知识图谱与图嵌入在个性化教育中的应用综述**  <br>
+[计算机系统应用] ()  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=0&CurRec=10&DbCode=CJFD&dbname=CJFDLAST2022&filename=XTYY202203005&urlid=&yx=) <br>
 
 ## 2021
 
