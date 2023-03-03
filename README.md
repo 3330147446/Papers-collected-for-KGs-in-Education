@@ -81,6 +81,11 @@ Here, We collect and collate the application of **Knowledge Graph** for **Educat
 [ICETC] ()  　ACM  <br> 
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3572549.3572619) <br>
 
+- **基于教育知识图谱的知识建构元空间设计与实现**  <br>
+[电化教育研究] ()  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=0&CurRec=4&DbCode=CJFD&dbname=CJFDAUTO&filename=DHJY202211010&urlid=&yx=) <br>
+
+
 ## 2021
 
 - **Group Cooperative Learning Model and Its Application Based on Group Knowledge Graph**  <br>
