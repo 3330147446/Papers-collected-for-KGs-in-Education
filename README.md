@@ -171,6 +171,27 @@ Here, We collect and collate the application of **Knowledge Graph** for **Educat
 [ICIDCA] ()  　Elsevier  <br> 
 [PDF]() <br>
 
+- **自适应学习系统中教育知识图谱模型构建研究**  <br>
+[中国教育信息化] ()  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=0&CurRec=11&DbCode=CJFD&dbname=CJFDLAST2022&filename=JYXX202124006&urlid=&yx=) <br>
+
+- **基于CiteSpace的我国基础教育知识图谱可视化分析**  <br>
+[数字技术与应用] ()  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=0&CurRec=13&DbCode=CJFD&dbname=CJFDLAST2021&filename=SZJT202107071&urlid=&yx=) <br>
+
+- **我国智慧教育知识图谱分析**  <br>
+[合作经济与科技] ()  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=0&CurRec=14&DbCode=CJFD&dbname=CJFDLAST2021&filename=HZJJ202114039&urlid=&yx=) <br>
+
+- **基于应用型高校创新创业教育知识图谱的朋辈作用发挥**  <br>
+[微型电脑应用] ()  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=0&CurRec=15&DbCode=CJFD&dbname=CJFDLAST2021&filename=WXDY202104014&urlid=&yx=) <br>
+
+- **面向教育的中文知识图谱自动构建技术**  <br>
+[中国教育信息化] ()  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=0&CurRec=17&DbCode=CJFD&dbname=CJFDLAST2021&filename=JYXX202104020&urlid=&yx=) <br>
+
+
 ## 2020
 
 - **Knowledge Graph Based Teaching Analysis on Circuit Course**  <br>
