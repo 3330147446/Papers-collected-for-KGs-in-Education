@@ -15,6 +15,11 @@ Here, We collect and collate the application of **Knowledge Graph** for **Educat
 [ICISCAE] ()  　ACM  <br> 
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3482632.3487457) <br>
 
+- **教育知识图谱的类型、应用及挑战**  <br>
+[软件导刊] ()  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=0&CurRec=1&DbCode=CAPJ&dbname=CAPJLAST&filename=RJDK2023011801C&urlid=42.1671.tp.20230118.1336.051&yx=Y) <br>
+
+
 ## 2022
 
 - **STDE: A Single-Senior-Teacher Knowledge Distillation Model for High-Dimensional Knowledge Graph Embeddings**  <br>
