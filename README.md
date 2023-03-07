@@ -327,7 +327,7 @@ Here, We collect and collate the application of **Knowledge Graph** for **Educat
 
 - **基于空间投影和关系路径的地理知识图谱表示学习**  <br>
 [中文信息学报] ()  　CNKI  <br> 
-[PDF](https://kns.cnki.net/kcms2/article/abstract?v=ECJfaSgxqGfIz3NF64-m2b327wfUukBd-ME6GFrh845kmTTBexkA2Q-VIgfDh7CzCl5ctZ5SgS7Gzkly5eiCGp3ha7niB5j21ke15tFJS5gk7lCst_8txc5yE2fK7VlB&uniplatform=NZ
+[PDF](https://kns.cnki.net/kcms2/article/abstract?v=ECJfaSgxqGfIz3NF64-m2b327wfUukBd-ME6GFrh845kmTTBexkA2Q-VIgfDh7CzCl5ctZ5SgS7Gzkly5eiCGp3ha7niB5j21ke15tFJS5gk7lCst_8txc5yE2fK7VlB&uniplatform=NZ)
 
 ## 2016
 
